@@ -168,4 +168,4 @@ def get_me_info(token):
         print(f"Response: {response_me.text}")
 
 # Contoh penggunaan fungsi untuk membuat 10 akun
-create_account_and_get_token(100)
+create_account_and_get_token(1000)
